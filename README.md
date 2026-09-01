@@ -4,7 +4,7 @@
 
 I’m an aspiring **Data Analyst** passionate about transforming data into meaningful insights and business-focused solutions.
 
-I enjoy working across the analytics process — from **data cleaning and transformation to analysis, visualization, dashboard development, and communicating insights**.
+I enjoy working across the analytics process from **data cleaning and transformation to analysis, visualization, dashboard development, and communicating insights**.
 
 ---
 
