@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Akhilesh Raut
 
-### 📊 Data Analyst | Power BI | SQL | Excel | Python
+### Data Analyst | Power BI | SQL | Python | Excel
 
 I’m an aspiring **Data Analyst** passionate about transforming data into meaningful insights and business-focused solutions.
 
